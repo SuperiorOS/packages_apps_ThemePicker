@@ -28,4 +28,8 @@
     <string name="obsidian_color_name">Obsidienne</string>
     <string name="peony_color_name">Rose pivoine</string>
     <string name="porcelain_color_name">Porcelaine</string>
+    <string name="fruit1_color_name">Palette bicolore jaune et rouge</string>
+    <string name="fruit2_color_name">Palette bicolore verte et orange</string>
+    <string name="fruit3_color_name">Palette bicolore bleue et verte</string>
+    <string name="fruit5_color_name">Palette bicolore rose et indigo</string>
 </resources>

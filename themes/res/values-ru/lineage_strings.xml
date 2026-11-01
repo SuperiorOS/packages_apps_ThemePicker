@@ -19,6 +19,9 @@
     <string name="bundle1_color_name">Карбон</string>
     <string name="bundle2_color_name">Бумага</string>
     <string name="bundle3_color_name">Солнце</string>
+    <string name="bue_color_name">Лавандовый</string>
+    <string name="red_color_name">Ягодный</string>
+    <string name="wht_color_name">Туман</string>
     <string name="indigo_color_name">Индиго</string>
     <string name="iris_color_name">Ирис</string>
     <string name="jade_color_name">Нефрит</string>
@@ -27,4 +30,9 @@
     <string name="obsidian_color_name">Обсидиан</string>
     <string name="peony_color_name">Пион</string>
     <string name="porcelain_color_name">Фарфор</string>
+    <string name="fruit1_color_name">Желто-красная двухцветная палитра</string>
+    <string name="fruit2_color_name">Зелено-оранжевая двухцветная палитра</string>
+    <string name="fruit3_color_name">Сине-зеленая двухцветная палитра</string>
+    <string name="fruit4_color_name">Яркофиолетово-синяя двухцветная палитра </string>
+    <string name="fruit5_color_name">Индиго-розовая двухцветная палитра</string>
 </resources>
